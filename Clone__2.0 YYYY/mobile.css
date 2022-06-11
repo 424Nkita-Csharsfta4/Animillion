@@ -1,0 +1,38 @@
+@media screen and (max-width : 1024px) {
+    
+}
+@media screen and (max-width : 800px) {
+    
+}
+@media screen and (max-width : 420px) {
+    
+}
+
+@media screen and (max-width : 600px) {
+    .vulc__nav {
+        font-size:1.5em;
+    }
+}
+
+html {
+    -webkit-text-size-adjust : none;
+    text-size-adjust         : none
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="number"],
+textarea {
+    -webkit-appearance : none;
+    -moz-appearance    : none;
+    -ms-appearance     : none;
+    appearance         : none;
+    outline            : 0;
+    box-shadow         : none;
+}
+
+html {
+   -webkit-text-size-adjust : 100%;
+   text-size-adjust         : 100%
+}
